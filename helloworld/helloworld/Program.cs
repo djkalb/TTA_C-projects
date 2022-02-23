@@ -6,7 +6,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("Welcome to Acme accounting \n were \"accounting\" on you!");
+            Console.WriteLine("Welcome to Acme accounting \nwe're \"accounting\" on you!");
         }
     }
 

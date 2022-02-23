@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\bin\Debug\netcoreapp3.1\variables_datatypes.exe
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\bin\Debug\netcoreapp3.1\variables_datatypes.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\bin\Debug\netcoreapp3.1\variables_datatypes.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\bin\Debug\netcoreapp3.1\variables_datatypes.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\bin\Debug\netcoreapp3.1\variables_datatypes.dll
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\bin\Debug\netcoreapp3.1\variables_datatypes.pdb
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\obj\Debug\netcoreapp3.1\variables_datatypes.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\obj\Debug\netcoreapp3.1\variables_datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\obj\Debug\netcoreapp3.1\variables_datatypes.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\obj\Debug\netcoreapp3.1\variables_datatypes.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\obj\Debug\netcoreapp3.1\variables_datatypes.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\obj\Debug\netcoreapp3.1\variables_datatypes.dll
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\obj\Debug\netcoreapp3.1\variables_datatypes.pdb
+C:\Users\David\Documents\Basic_C#_Programs\variables_datatypes\variables_datatypes\obj\Debug\netcoreapp3.1\variables_datatypes.genruntimeconfig.cache
