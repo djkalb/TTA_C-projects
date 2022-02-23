@@ -30,7 +30,7 @@ namespace Boolean_logic
             Console.WriteLine("Do you qualify for insurance??");
             // prints true or false depending on if they meet the criteeria for insurance did conversions inline
             // cause lazy
-            Console.WriteLine(Int16.Parse(age) > 14 && Convert.ToBoolean(dui) && Int16.Parse(tickets) < 3);
+            Console.WriteLine(Int16.Parse(age) > 15 && !Convert.ToBoolean(dui) && Int16.Parse(tickets) <= 3);
         }
     }
 }
