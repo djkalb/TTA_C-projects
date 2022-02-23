@@ -31,13 +31,17 @@ namespace Planet_express
             {
                 Console.WriteLine("Package too heavy to be shipped via Planet Express. Have a good day.");
             }
-            Console.WriteLine("What is the package width?");
-            double width = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("What is the package height");
-            double height = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("What is the package length?");
-            double length = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine((length + width + height > 50) ? "Item is too large to ship" : "The total comes too $" + (width* length * height*weight)/100 );
+            else
+            {
+                Console.WriteLine("What is the package width?");
+                double width = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("What is the package height");
+                double height = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("What is the package length?");
+                double length = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine((length + width + height > 50) ? "Item is too large to ship" : "The total comes too $" + (width * length * height * weight) / 100);
+            }
+            
         }
     }
 }
