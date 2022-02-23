@@ -18,9 +18,11 @@ namespace Strings
             string concatted = "this is a string " + "just string it along " + "tired of strings.";
             string upperred = "can i do it like this?".ToUpper();
             StringBuilder builded = new StringBuilder();
+            //builds some strings using append 
             builded.Append(concatted + "\n");
             builded.Append(upperred + "\n");
             builded.Append("one more string");
+            //prints my built string which contains my other strings, stringception
             Console.WriteLine(builded);
         }
     }
