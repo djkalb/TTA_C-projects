@@ -1,13 +1,27 @@
 ﻿using System;
 
-//Create a class. In that class, create three methods, each of which will take one integer parameter in and return an integer.
-//The methods should do some math operation on the received parameter. Put this class in a separate.cs file in the application.
 
-//In the Main() program, ask the user what number they want to do the math operations on.
+//Create a class. In that class, create a method that will take in an integer, create a math operation for this integer
+//(addition, subtraction, etc.), then return the answer as an integer.
 
-//Call each method in turn, passing the user input to the method.Display the returned integer to the screen.
+//In the Main() method of the console app, instantiate the class and call the one method, passing in an integer.
+//Display the result to the screen.
 
-//Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+//Add a second method to the class with the same name that will take in a decimal, create a different math operation for it,
+//then return the answer as an integer.
+
+//In the Main() method of the console app, instantiate the class and call the second method, passing in a decimal.
+//Display the result to the screen.
+
+//Add a third method to the class, with the same name, that will take in a string, convert it to an integer if possible,
+//do a different math operation to it, then return the answer as an integer.
+
+//In the Main() method of the console app, instantiate the class and call the third method, passing in a string that
+//equates to an integer. Display the result to the screen.
+
+//Add comments to each line or block of your code to explain what it does exactly, so that another developer
+//could read and understand your code.
+
 namespace methods
 {
     class Program
@@ -15,13 +29,14 @@ namespace methods
         static void Main(string[] args)
         {
             Mathematical maths = new Mathematical();
-            Console.WriteLine("input a number i will do some maths to it");
-            //saves user input as an object of mathematical -- pretty unnecessary but oh well
-            maths.Integer1 = Convert.ToInt32(Console.ReadLine());
+            int intNum = 30;
+            decimal decNumber = 100.05m;
+            string stringNum = "50";
             // calls all those fancy methods i wrote
-            Console.WriteLine(Mathematical.Add(maths.Integer1));
-            Console.WriteLine(Mathematical.Subtract(maths.Integer1));
-            Console.WriteLine(Mathematical.Multiply(maths.Integer1));
+            Console.WriteLine(Mathematical.Add(intNum));
+            Console.WriteLine(Mathematical.Add(decNumber));
+            Console.WriteLine(Mathematical.Add(stringNum));
+            
         }
     }
 }

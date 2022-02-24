@@ -13,9 +13,16 @@ namespace methods
         {
             return number + 10;
         }
-        public static int Subtract(int number)
+        public static decimal Add(decimal number)
         {
-            return number - 10;
+            return Convert.ToInt32(number - 10);
+        }
+        public static int Add(string number)
+
+        {
+            int newNumber = Int32.Parse(number);
+            
+            return newNumber + 10;
         }
         public static int Multiply(int number)
         {

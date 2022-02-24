@@ -11,3 +11,4 @@ C:\Users\David\Documents\Basic_C#_Programs\methods\methods\obj\Debug\netcoreapp3
 C:\Users\David\Documents\Basic_C#_Programs\methods\methods\obj\Debug\netcoreapp3.1\methods.dll
 C:\Users\David\Documents\Basic_C#_Programs\methods\methods\obj\Debug\netcoreapp3.1\methods.pdb
 C:\Users\David\Documents\Basic_C#_Programs\methods\methods\obj\Debug\netcoreapp3.1\methods.genruntimeconfig.cache
+C:\Users\David\Documents\Basic_C#_Programs\methods\methods\obj\Debug\netcoreapp3.1\methods.csproj.AssemblyReference.cache
