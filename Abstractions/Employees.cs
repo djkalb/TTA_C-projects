@@ -16,11 +16,15 @@ using System.Text;
 //could read and understand your code.
 namespace Abstractions
 {
-    public class Employees : Person
+    public class Employees : Person, IQuittable
     {
         public override void SayName()
         {
             base.SayName();
+        }
+        public void Quit()
+        {
+            Console.WriteLine(FirstName + " says fuck this shit im outta here");
         }
     }
 }

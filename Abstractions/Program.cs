@@ -10,6 +10,7 @@ namespace Abstractions
             Employees employee = new Employees { LastName = "Student", FirstName = "Sample" };
             // calls parent Person method inside employee with instanciated employees information i think
             employee.SayName();
+            employee.Quit();
             
         }
     }
