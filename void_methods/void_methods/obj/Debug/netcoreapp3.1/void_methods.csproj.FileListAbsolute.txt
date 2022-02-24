@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\void_methods\void_methods\bin\Debug\netcoreapp3.1\void_methods.exe
+C:\Users\David\source\repos\void_methods\void_methods\bin\Debug\netcoreapp3.1\void_methods.deps.json
+C:\Users\David\source\repos\void_methods\void_methods\bin\Debug\netcoreapp3.1\void_methods.runtimeconfig.json
+C:\Users\David\source\repos\void_methods\void_methods\bin\Debug\netcoreapp3.1\void_methods.runtimeconfig.dev.json
+C:\Users\David\source\repos\void_methods\void_methods\bin\Debug\netcoreapp3.1\void_methods.dll
+C:\Users\David\source\repos\void_methods\void_methods\bin\Debug\netcoreapp3.1\void_methods.pdb
+C:\Users\David\source\repos\void_methods\void_methods\obj\Debug\netcoreapp3.1\void_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\void_methods\void_methods\obj\Debug\netcoreapp3.1\void_methods.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\void_methods\void_methods\obj\Debug\netcoreapp3.1\void_methods.AssemblyInfo.cs
+C:\Users\David\source\repos\void_methods\void_methods\obj\Debug\netcoreapp3.1\void_methods.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\void_methods\void_methods\obj\Debug\netcoreapp3.1\void_methods.dll
+C:\Users\David\source\repos\void_methods\void_methods\obj\Debug\netcoreapp3.1\void_methods.pdb
+C:\Users\David\source\repos\void_methods\void_methods\obj\Debug\netcoreapp3.1\void_methods.genruntimeconfig.cache

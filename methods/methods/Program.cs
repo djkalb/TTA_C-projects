@@ -27,13 +27,14 @@ namespace methods
     class Program
     {
         static void Main(string[] args)
-        {
+        {   //instanciates the mathematical class 
             Mathematical maths = new Mathematical();
             int intNum = 30;
             decimal decNumber = 100.05m;
             string stringNum = "50";
             // calls all those fancy methods i wrote
             Console.WriteLine(Mathematical.Add(intNum));
+
             Console.WriteLine(Mathematical.Add(decNumber));
             Console.WriteLine(Mathematical.Add(stringNum));
             
