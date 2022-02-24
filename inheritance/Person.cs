@@ -16,7 +16,7 @@ namespace inheritance
 
         public void sayName()
         {
-            Console.WriteLine("Name: "  + FirstName + LastName);
+            Console.WriteLine("Name: "  + FirstName + " " + LastName);
         }
     }
 }
