@@ -21,6 +21,7 @@ namespace exception_handling
         {
             List<int> numbs = new List<int> { 11, 44, 30, 60 };
             Console.WriteLine("input a number to divide some numbers by");
+            // makes errors look prettier but doesnt help them
             try
             {
                 int input = Convert.ToInt32(Console.ReadLine());
