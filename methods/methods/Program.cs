@@ -16,7 +16,9 @@ namespace methods
         {
             Mathematical maths = new Mathematical();
             Console.WriteLine("input a number i will do some maths to it");
+            //saves user input as an object of mathematical -- pretty unnecessary but oh well
             maths.Integer1 = Convert.ToInt32(Console.ReadLine());
+            // calls all those fancy methods i wrote
             Console.WriteLine(Mathematical.Add(maths.Integer1));
             Console.WriteLine(Mathematical.Subtract(maths.Integer1));
             Console.WriteLine(Mathematical.Multiply(maths.Integer1));
