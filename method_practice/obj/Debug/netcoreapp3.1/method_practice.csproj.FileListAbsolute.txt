@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\bin\Debug\netcoreapp3.1\method_practice.exe
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\bin\Debug\netcoreapp3.1\method_practice.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\bin\Debug\netcoreapp3.1\method_practice.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\bin\Debug\netcoreapp3.1\method_practice.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\bin\Debug\netcoreapp3.1\method_practice.dll
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\bin\Debug\netcoreapp3.1\method_practice.pdb
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\obj\Debug\netcoreapp3.1\method_practice.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\obj\Debug\netcoreapp3.1\method_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\obj\Debug\netcoreapp3.1\method_practice.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\obj\Debug\netcoreapp3.1\method_practice.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\obj\Debug\netcoreapp3.1\method_practice.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\obj\Debug\netcoreapp3.1\method_practice.dll
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\obj\Debug\netcoreapp3.1\method_practice.pdb
+C:\Users\David\Documents\Basic_C#_Programs\method_practice\obj\Debug\netcoreapp3.1\method_practice.genruntimeconfig.cache
