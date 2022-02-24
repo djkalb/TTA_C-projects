@@ -6,7 +6,31 @@ namespace blackjack
 {
     public class Card
     {
-        public string Face { get; set; }
-        public string Suit { get; set; }
+        public Face Face { get; set; }
+        public Suit Suit { get; set; }
+    }
+    public enum Suit
+    {
+        clubs,
+        diamonds,
+        hearts,
+        spades
+           
+    } 
+    public enum Face
+    {
+        two,
+        three,
+        four,
+        five,
+        six,
+        seven,
+        eight,
+        nine,
+        ten,
+        jack,
+        queen,
+        king,
+        ace
     }
 }
