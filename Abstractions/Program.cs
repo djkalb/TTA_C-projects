@@ -7,10 +7,13 @@ namespace Abstractions
     {
         static void Main(string[] args)
         {
-            Employees employee = new Employees { LastName = "Student", FirstName = "Sample" };
+            Employees employee = new Employees { LastName = "Student", FirstName = "Sample", Id = 10 };
             // calls parent Person method inside employee with instanciated employees information i think
-            employee.SayName();
-            employee.Quit();
+            //employee.SayName();
+            //employee.Quit();
+            Employees employee2 = new Employees { Id = 11 };
+            Console.WriteLine(employee == employee2);
+
             
         }
     }
