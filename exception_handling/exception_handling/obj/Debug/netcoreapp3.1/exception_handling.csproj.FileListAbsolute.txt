@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\bin\Debug\netcoreapp3.1\exception_handling.exe
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\bin\Debug\netcoreapp3.1\exception_handling.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\bin\Debug\netcoreapp3.1\exception_handling.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\bin\Debug\netcoreapp3.1\exception_handling.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\bin\Debug\netcoreapp3.1\exception_handling.dll
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\bin\Debug\netcoreapp3.1\exception_handling.pdb
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\obj\Debug\netcoreapp3.1\exception_handling.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\obj\Debug\netcoreapp3.1\exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\obj\Debug\netcoreapp3.1\exception_handling.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\obj\Debug\netcoreapp3.1\exception_handling.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\obj\Debug\netcoreapp3.1\exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\obj\Debug\netcoreapp3.1\exception_handling.dll
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\obj\Debug\netcoreapp3.1\exception_handling.pdb
+C:\Users\David\Documents\Basic_C#_Programs\exception_handling\exception_handling\obj\Debug\netcoreapp3.1\exception_handling.genruntimeconfig.cache
