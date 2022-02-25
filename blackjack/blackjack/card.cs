@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace blackjack
 {
-    public class Card
+    public struct Card
     {
         public Face Face { get; set; }
         public Suit Suit { get; set; }
