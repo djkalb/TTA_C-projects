@@ -14,8 +14,11 @@ namespace Datetime
         static void Main(string[] args)
         {
             Console.WriteLine("Input a number of hours?");
+            // formats into double to work with the AddHours method
             double hours = Convert.ToDouble(Console.ReadLine());
+            // gets the time now
             DateTime dateTime = DateTime.Now;
+            // calls the addhours method onto the current time adding in the inputted number
             dateTime = dateTime.AddHours(hours);
             Console.WriteLine(dateTime.ToString());
         }

@@ -12,3 +12,6 @@ C:\Users\David\Documents\Basic_C#_Programs\blackjack\blackjack\obj\Debug\netcore
 C:\Users\David\Documents\Basic_C#_Programs\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.dll
 C:\Users\David\Documents\Basic_C#_Programs\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.pdb
 C:\Users\David\Documents\Basic_C#_Programs\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.genruntimeconfig.cache
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\blackjack\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\blackjack\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.csproj.CopyComplete
