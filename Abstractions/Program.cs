@@ -38,13 +38,25 @@ namespace Abstractions
                     listName1.Add(employee);
                 }
             }
-            
-            
-            
+            foreach(Employees employee in listIds)
+            {
+                Console.WriteLine(employee.Id + " " + employee.FirstName);
+            }
+            foreach (Employees employee in listName)
+            {
+                Console.WriteLine(employee.Id + " " + employee.FirstName);
+            }
+            foreach (Employees employee in listName1)
+            {
+                Console.WriteLine(employee.Id + " " + employee.FirstName);
+            }
 
-            
-            
-            
+
+
+
+
+
+
 
 
 
