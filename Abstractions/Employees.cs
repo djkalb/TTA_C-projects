@@ -14,9 +14,9 @@ using System.Text;
 //so that another developer could read and understand your code.
 namespace Abstractions
 {
-    public class Employees<T> : Person//, IQuittable
+    public class Employees : Person//, IQuittable
     {
-        public List<T> Things = new List<T>();
+        
         public int Id { get; set; }
 
         public static bool IdsAreEqual { get; set; }

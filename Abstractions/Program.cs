@@ -1,33 +1,50 @@
 ﻿using System;
-//Instantiate an Employee object with type “string” as its generic parameter. Assign a list of strings as
-//the property value of Things.
+using System.Collections.Generic;
+using System.Linq;
+//In the Main() method, create a list of at least 10 employees. Each employee should have a first and last name,
+//as well as an Id. At least two employees should have the first name “Joe”.
 
-//Instantiate an Employee object with type “int” as its generic parameter. Assign a list of integers as the
-//property value of Things.
+//Using a foreach loop, create a new list of all employees with the first name “Joe”.
 
-//Create a loop that prints all of the Things to the Console.
+//Perform the same action again, but this time with a lambda expression.
+
+//Using a lambda expression, make a list of all employees with an Id number greater than 5.
+
+//Add comments to each line or block of your code to explain what it does exactly, so that another 
+//developer could read and understand your code.
 namespace Abstractions
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //Employees employee = new Employees { LastName = "Student", FirstName = "Sample", Id = 10 };
-            //// calls parent Person method inside employee with instanciated employees information i think
-            ////employee.SayName();
-            ////employee.Quit();
-            //Employees employee2 = new Employees { Id = 11 };
-            //// custom comparison throws error if IDs match else returns the first employee
-            //Console.WriteLine(employee == employee2);
-            Employees<string> employee = new Employees<string>();
-            employee.Things.Add("strings");
-            employee.Things.Add("morbid");
-            employee.Things.Add("obesity");
-            employee.Things.Add("stings");
-            foreach (string item in employee.Things)
+            List<Employees> employees = new List<Employees>();
+            // generates list of employees IDS are unique, but sadly names are shared lots of Joes in my company
+            for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine(item);
+                Employees employee = new Employees { FirstName = "Joe", LastName = "Joe", Id = i };
+                employees.Add(employee);
             }
+            // makes list of employees where id > 5
+            List<Employees> listIds = employees.Where(x => x.Id > 5).ToList();
+            // makes list of employees where name is joe ie just remaking the whole list
+            List<Employees> listName = employees.Where(x => x.FirstName == "Joe").ToList();
+            // makes list of employees where name is joe ie just remaking the whole list but in a different way this time
+            List<Employees> listName1 = new List<Employees>(); 
+            foreach (Employees employee in employees)
+            {
+                if(employee.FirstName == "Joe")
+                {
+                    listName1.Add(employee);
+                }
+            }
+            
+            
+            
+
+            
+            
+            
 
 
 
