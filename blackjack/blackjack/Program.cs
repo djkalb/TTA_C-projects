@@ -14,18 +14,21 @@ namespace blackjack
             int bank = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("{0}, Do you want to play", playerName);
             string answer = Console.ReadLine().ToLower();
-            if (answer = "yes" || answer == "y" || answer == "ya")
+            if (answer == "yes" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
                 Game game = new Blackjack();
-                game += player;
+                game = game + player;
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
                     game.Play();
                 }
+                game = game - player;
+                Console.WriteLine("thank you for playing");
 
             }
+            Console.WriteLine("try playing -- cheapskate");
         }
         
         
