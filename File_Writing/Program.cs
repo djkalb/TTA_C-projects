@@ -19,7 +19,7 @@ namespace File_Writing
             Console.WriteLine("give me a number");
             string number = Console.ReadLine();
             // creates file in current folder puts the inputted number in it
-            File.WriteAllText(@".\number.txt", (number + 10));
+            File.WriteAllText(@".\number.txt", number);
             // prints file contents to screen
             Console.WriteLine(File.ReadAllText(@".\number.txt"));
         }
