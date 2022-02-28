@@ -47,12 +47,12 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeeedingTickets,CoverageType")] Insuree insuree)
+        public ActionResult Create([Bind(Exclude = "Quote", Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeeedingTickets,CoverageType")] Insuree insuree)
         {
             if (ModelState.IsValid)
             {
                 // should set the value of quote in the database to calculated version , but not allow user to type in their own
-                // in real life probably send them a new view with quote to approve
+                
                 insuree.CalculateQuote();
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
