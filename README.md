@@ -6,5 +6,8 @@ more complex projects.
 A console application version of blackjack. Works pretty well, would recommend playing.
 * [Newsletter App](https://github.com/djkalb/TTA_C-projects/tree/master/NewsletterAppMVC)
 A basic MVC app with a functioning crud page and database using entity framework.
+* [Car Insurance Site](https://github.com/djkalb/TTA_C-projects/tree/master/CarInsurance)
+Simple site that has user input basic information for car insurance. Caluculates a quote, updates a database with the new entry. Also provides an admin page for viewing all the
+entities in the database.
 
 
