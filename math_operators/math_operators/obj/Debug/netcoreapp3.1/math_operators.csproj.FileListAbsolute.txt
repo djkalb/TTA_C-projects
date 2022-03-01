@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\obj\Debug\netcoreapp3.1\math_operators.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\obj\Debug\netcoreapp3.1\math_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\obj\Debug\netcoreapp3.1\math_operators.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\obj\Debug\netcoreapp3.1\math_operators.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\obj\Debug\netcoreapp3.1\math_operators.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\bin\Debug\netcoreapp3.1\math_operators.exe
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\bin\Debug\netcoreapp3.1\math_operators.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\bin\Debug\netcoreapp3.1\math_operators.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\bin\Debug\netcoreapp3.1\math_operators.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\bin\Debug\netcoreapp3.1\math_operators.dll
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\bin\Debug\netcoreapp3.1\math_operators.pdb
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\obj\Debug\netcoreapp3.1\math_operators.dll
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\obj\Debug\netcoreapp3.1\math_operators.pdb
+C:\Users\David\Documents\Basic_C#_Programs\math_operators\math_operators\obj\Debug\netcoreapp3.1\math_operators.genruntimeconfig.cache

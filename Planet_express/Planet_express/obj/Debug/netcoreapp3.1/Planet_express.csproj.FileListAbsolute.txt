@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\bin\Debug\netcoreapp3.1\Planet_express.exe
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\bin\Debug\netcoreapp3.1\Planet_express.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\bin\Debug\netcoreapp3.1\Planet_express.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\bin\Debug\netcoreapp3.1\Planet_express.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\bin\Debug\netcoreapp3.1\Planet_express.dll
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\bin\Debug\netcoreapp3.1\Planet_express.pdb
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\obj\Debug\netcoreapp3.1\Planet_express.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\obj\Debug\netcoreapp3.1\Planet_express.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\obj\Debug\netcoreapp3.1\Planet_express.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\obj\Debug\netcoreapp3.1\Planet_express.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\obj\Debug\netcoreapp3.1\Planet_express.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\obj\Debug\netcoreapp3.1\Planet_express.dll
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\obj\Debug\netcoreapp3.1\Planet_express.pdb
+C:\Users\David\Documents\Basic_C#_Programs\Planet_express\Planet_express\obj\Debug\netcoreapp3.1\Planet_express.genruntimeconfig.cache

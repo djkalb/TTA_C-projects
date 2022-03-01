@@ -1,0 +1,13 @@
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\bin\Debug\netcoreapp3.1\Loopers.exe
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\bin\Debug\netcoreapp3.1\Loopers.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\bin\Debug\netcoreapp3.1\Loopers.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\bin\Debug\netcoreapp3.1\Loopers.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\bin\Debug\netcoreapp3.1\Loopers.dll
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\bin\Debug\netcoreapp3.1\Loopers.pdb
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\obj\Debug\netcoreapp3.1\Loopers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\obj\Debug\netcoreapp3.1\Loopers.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\obj\Debug\netcoreapp3.1\Loopers.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\obj\Debug\netcoreapp3.1\Loopers.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\obj\Debug\netcoreapp3.1\Loopers.dll
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\obj\Debug\netcoreapp3.1\Loopers.pdb
+C:\Users\David\Documents\Basic_C#_Programs\Loopers\Loopers\obj\Debug\netcoreapp3.1\Loopers.genruntimeconfig.cache

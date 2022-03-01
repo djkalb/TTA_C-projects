@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\bin\Debug\netcoreapp3.1\Boolean_logic.exe
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\bin\Debug\netcoreapp3.1\Boolean_logic.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\bin\Debug\netcoreapp3.1\Boolean_logic.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\bin\Debug\netcoreapp3.1\Boolean_logic.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\bin\Debug\netcoreapp3.1\Boolean_logic.dll
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\bin\Debug\netcoreapp3.1\Boolean_logic.pdb
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\obj\Debug\netcoreapp3.1\Boolean_logic.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\obj\Debug\netcoreapp3.1\Boolean_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\obj\Debug\netcoreapp3.1\Boolean_logic.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\obj\Debug\netcoreapp3.1\Boolean_logic.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\obj\Debug\netcoreapp3.1\Boolean_logic.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\obj\Debug\netcoreapp3.1\Boolean_logic.dll
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\obj\Debug\netcoreapp3.1\Boolean_logic.pdb
+C:\Users\David\Documents\Basic_C#_Programs\Boolean_logic\Boolean_logic\obj\Debug\netcoreapp3.1\Boolean_logic.genruntimeconfig.cache

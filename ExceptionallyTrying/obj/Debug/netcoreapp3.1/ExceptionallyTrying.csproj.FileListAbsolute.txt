@@ -1,0 +1,13 @@
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\bin\Debug\netcoreapp3.1\ExceptionallyTrying.exe
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\bin\Debug\netcoreapp3.1\ExceptionallyTrying.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\bin\Debug\netcoreapp3.1\ExceptionallyTrying.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\bin\Debug\netcoreapp3.1\ExceptionallyTrying.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\bin\Debug\netcoreapp3.1\ExceptionallyTrying.dll
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\bin\Debug\netcoreapp3.1\ExceptionallyTrying.pdb
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\obj\Debug\netcoreapp3.1\ExceptionallyTrying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\obj\Debug\netcoreapp3.1\ExceptionallyTrying.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\obj\Debug\netcoreapp3.1\ExceptionallyTrying.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\obj\Debug\netcoreapp3.1\ExceptionallyTrying.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\obj\Debug\netcoreapp3.1\ExceptionallyTrying.dll
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\obj\Debug\netcoreapp3.1\ExceptionallyTrying.pdb
+C:\Users\David\Documents\Basic_C#_Programs\ExceptionallyTrying\obj\Debug\netcoreapp3.1\ExceptionallyTrying.genruntimeconfig.cache

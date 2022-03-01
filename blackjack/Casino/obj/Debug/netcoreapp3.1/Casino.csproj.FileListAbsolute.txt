@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\obj\Debug\netcoreapp3.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\David\Documents\Basic_C#_Programs\blackjack\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\bin\Debug\netcoreapp3.1\var_constructors.exe
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\bin\Debug\netcoreapp3.1\var_constructors.deps.json
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\bin\Debug\netcoreapp3.1\var_constructors.runtimeconfig.json
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\bin\Debug\netcoreapp3.1\var_constructors.runtimeconfig.dev.json
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\bin\Debug\netcoreapp3.1\var_constructors.dll
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\bin\Debug\netcoreapp3.1\var_constructors.pdb
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\obj\Debug\netcoreapp3.1\var_constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\obj\Debug\netcoreapp3.1\var_constructors.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\obj\Debug\netcoreapp3.1\var_constructors.AssemblyInfo.cs
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\obj\Debug\netcoreapp3.1\var_constructors.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\obj\Debug\netcoreapp3.1\var_constructors.dll
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\obj\Debug\netcoreapp3.1\var_constructors.pdb
+C:\Users\David\Documents\Basic_C#_Programs\var_constructors\obj\Debug\netcoreapp3.1\var_constructors.genruntimeconfig.cache
